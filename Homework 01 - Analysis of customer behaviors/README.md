@@ -1,4 +1,4 @@
-# Customer Behav- iors
+# Customer Behaviors
 class work for EDA and basic customer single view
 
 ### Dataset
