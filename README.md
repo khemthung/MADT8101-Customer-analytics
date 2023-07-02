@@ -9,5 +9,5 @@ class 2 Build Customer Single View & Basic Customer Analytic
 
 class 3 Customer Lifetime Value & Customer
 
-class 4 Churn & Campaign Scoring
+[class 4 Churn & Campaign Scoring](https://github.com/khemthung/MADT8101-Customer-analytics/tree/main/Homework%204%20-%20Churn%20%26%20Campaign%20Scoring)
 
