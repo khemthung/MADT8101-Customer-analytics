@@ -11,3 +11,4 @@ class 3 Customer Lifetime Value & Customer
 
 [class 4 Churn & Campaign Scoring](https://github.com/khemthung/MADT8101-Customer-analytics/tree/main/Homework%204%20-%20Churn%20%26%20Campaign%20Scoring)
 
+[class 5 Customer Segmentation & Movement]()
