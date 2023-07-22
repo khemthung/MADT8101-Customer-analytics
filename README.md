@@ -5,7 +5,7 @@
 [class 1 Overview of Customer Analytic & Design Customer Data Platform](https://github.com/khemthung/MADT8101-Customer-analytics/tree/main/Homework%2001%20-%20Analysis%20of%20customer%20behaviors)\
 ![Generic badge](https://img.shields.io/badge/Business-blue)
 ![Generic badge](https://img.shields.io/badge/Concept-blue)
-![Generic badge](https://img.shields.io/badge/CDP-blue)
+![Generic badge](https://img.shields.io/badge/CDP-yellow)
 ![Generic badge](https://img.shields.io/badge/R-<COLOR>.svg)
 
 
