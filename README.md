@@ -6,7 +6,7 @@
 ![Generic badge](https://img.shields.io/badge/Business-blue)
 ![Generic badge](https://img.shields.io/badge/Concept-blue)
 ![Generic badge](https://img.shields.io/badge/CDP-yellow)
-![Generic badge](https://img.shields.io/badge/R-<COLOR>.svg)
+![Generic badge](https://img.shields.io/badge/Use_cases-blue)
 
 
 [class 2 Build Customer Single View & Basic Customer Analytic](https://github.com/khemthung/MADT8101-Customer-analytics/tree/main/Homework%2002%20-%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic)\
