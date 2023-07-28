@@ -2,7 +2,7 @@
 ### MADT8101-Customer-analytics class works and projects
 
 
-[class 1 Overview of Customer Analytic & Design Customer Data Platform](https://github.com/khemthung/MADT8101-Customer-analytics/tree/11c9e13e6f615770b960578b10fd95b49a5a741f/Homework%2001%20-%20Analysis%20of%20customer%20behaviors%20%26%20CDP)\
+[class 1 Overview of Customer Analytic & Design Customer Data Platform](https://github.com/khemthung/MADT8101-Customer-analytics/tree/main/Homework%2001%20-%20Analysis%20of%20customer%20behaviors%20%26%20CDP)\
 ![Generic badge](https://img.shields.io/badge/Business-blue)
 ![Generic badge](https://img.shields.io/badge/Concept-blue)
 ![Generic badge](https://img.shields.io/badge/CDP-yellow)
