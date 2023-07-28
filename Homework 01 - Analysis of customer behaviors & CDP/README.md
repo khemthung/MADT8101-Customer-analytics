@@ -14,8 +14,8 @@ class work for mock up customer data platform for **Banking and Financial servic
 ![Demo and Behvioural data](https://github.com/khemthung/MADT8101-Customer-analytics/blob/ba15bf7acd1150f63d2269c425034f6a7bf37668/Homework%2001%20-%20Analysis%20of%20customer%20behaviors%20%26%20CDP/02.png)
 
 ## CDP overview
-![CDP pipeline](https://github.com/khemthung/MADT8101-Customer-analytics/blob/ba15bf7acd1150f63d2269c425034f6a7bf37668/Homework%2001%20-%20Analysis%20of%20customer%20behaviors%20%26%20CDP/03.png)
-- s
+![CDP pipeline](https://github.com/khemthung/MADT8101-Customer-analytics/blob/main/Homework%2001%20-%20Analysis%20of%20customer%20behaviors%20%26%20CDP/03.png)
+- key here is having user identifier to map user across platform and create the Customer profile for our business
 
 ## Customer Single View (mock up)
 
