@@ -23,5 +23,6 @@ class work for mock up customer data platform for **Banking and Financial servic
 ## Use Cases
 1) Next best offer (Cross-sells with product by life stage)
 2) Lead scoring (Segment to identify customer)
-3) Upsell/Top-up (view spending transaction and apply with more intersting offers)
-4) Customer retrntion (maintain existing customer & churn prediction)
+3) Upsell/Top-up (view spending transaction and apply with more interesting offers)
+4) Customer retention (maintain existing customer & churn prediction)
+
