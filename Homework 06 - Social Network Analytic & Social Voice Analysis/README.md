@@ -31,3 +31,10 @@
 
 
 4) Interpret results
+
+    - **foodie reviewer** - reviewer who have pattern of review and suggest lots of dishes on menu
+    - **ramen lover** - topic share about how to eat this Tsukemen menu with detailed 
+    - **user experiences** - the expression of user with menu and restaurant
+
+
+appendix: [file_6510424003](https://docs.google.com/presentation/d/1VXQrRK-WCS0w_FvSfOfcMGH-1UE3Vc6pHiDEU6lkSyk/edit?usp=sharing)
