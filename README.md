@@ -39,6 +39,8 @@
 
 [class 6 Social Network Analytic & Social Voice Analysis](https://github.com/khemthung/MADT8101-Customer-analytics/tree/main/Homework%2006%20-%20Social%20Network%20Analytic%20%26%20Social%20Voice%20Analysis
 )\
-![Generic badge](https://img.shields.io/badge/Concept-blue)
+![Generic badge](https://img.shields.io/badge/Topic_Modeling-blue)
 ![Generic badge](https://img.shields.io/badge/Python-<COLOR>.svg)
 ![Generic badge](https://img.shields.io/badge/NLP-yellow)
+![Generic badge](https://img.shields.io/badge/LDA-yellow)
+![Generic badge](https://img.shields.io/badge/Word_Cloud-yellow)
