@@ -18,5 +18,16 @@
     - og_link = original link of the review
   
 ## Topic Modeling with LDA
-- sd
-- sd
+1) Create dictionary
+
+   ref: [pythainlp](https://pythainlp.github.io/docs/2.1/api/tokenize.html)
+
+   ref2: [source](https://github.com/PyThaiNLP/pythainlp/tree/dev)
+   
+2) Word tokenization (ตัดคำ)
+
+
+3) Build Modeling with LDA
+
+
+4) Interpret results
