@@ -2,12 +2,13 @@
 Useing data set from "dun humphrey supermarket" to explore customer insight
 
 **Analtyic objective**
-- to identify customer behaviour
-- 
+- to identify customer behavioural by segmentation
+- to provide actionable insight and apply strategy for each group
   
 ## EDA
-- sd
-- sd
+- clean up data from dunhumphy supermarket file
+- feature selection
+** github link **
 
 ## Freature selection & Data preparation
 - a
