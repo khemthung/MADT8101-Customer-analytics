@@ -19,6 +19,8 @@
     - owner = the user account
     - og_link = original link of the review
   
+  [view steps by steps in pynb](https://colab.research.google.com/drive/1V_JaxEWgG0BLVqUp_rYY3WKC1woOABL3?usp=sharing)
+  
 ## Topic Modeling with LDA
 ### Create dictionary
 ![Create dictionary](https://github.com/khemthung/MADT8101-Customer-analytics/blob/ec3214bab4fea21b88c60eaa7afad930b52628f4/Homework%2006%20-%20Social%20Network%20Analytic%20%26%20Social%20Voice%20Analysis/content/png_6_01.png)
