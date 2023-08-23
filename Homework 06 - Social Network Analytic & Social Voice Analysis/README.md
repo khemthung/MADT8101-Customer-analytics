@@ -23,7 +23,7 @@
   
 ## Topic Modeling with LDA
 ### Create dictionary
-![Create dictionary](https://github.com/khemthung/MADT8101-Customer-analytics/blob/ec3214bab4fea21b88c60eaa7afad930b52628f4/Homework%2006%20-%20Social%20Network%20Analytic%20%26%20Social%20Voice%20Analysis/content/png_6_01.png)
+![Create dictionary](https://github.com/khemthung/MADT8101-Customer-analytics/blob/50ce59e7d7ce2f08b7b692d735ea124e01996c38/Homework%2006%20-%20Social%20Network%20Analytic%20%26%20Social%20Voice%20Analysis/content/png_6_01.png)
 
    ref: [pythainlp](https://pythainlp.github.io/docs/2.1/api/tokenize.html)
 
