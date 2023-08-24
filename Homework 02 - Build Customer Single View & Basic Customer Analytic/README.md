@@ -1,35 +1,37 @@
-# Exploratory data analysis (EDA) 
-Useing data set from "dun humphrey supermarket" to explore customer insight
+# Supermarket Sales Exploratory Data Analysis 
 
-pic0 "tolus"
+**Context**
+- Useing data set from "dun humphrey supermarket" to explore customer insight
+- How can apply strategy on this supermarket transaction data set
 
-**Analtyic objective**
+ **Analtyic objective**
 - to identify customer behavioural by segmentation
 - to provide actionable insight and apply strategy for each group
-  
-## EDA
-- clean up data from dunhumphy supermarket file
 
-**collab link**
-- pic 1 clean
+![tolus](https://github.com/khemthung/MADT8101-Customer-analytics/blob/139ed13716d1474da65af476789db595aabd1b76/Homework%2002%20-%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic/content/png_2_01.png)
 
-## Freature selection & Data preparation
-- **Data dictionary:**
-    - **customers code:** customer unique number
-    - **started date:** 1st data customer register
-    - **last date:** last purchase date
-    - **total spend:** total spending per user
-    - **mean time between purchase:** calculated from *((start_date - last_date)/pruchase_frequency)*
-    - **lifetime:** calculated from  *(today(lastest of data) - registered date)*
-    - **customer life time value CLTV:** lifetime miltiplied by average transaction per user
-    - **avg_spend:** on that purchase spending per basket per user
-    - **customer price sensitivity:** customer respond on price
-    - **customer lifestage:** segment customer by thier's age
-- pic2 table
+## Business Decision
+![Business Decision](https://github.com/khemthung/MADT8101-Customer-analytics/blob/139ed13716d1474da65af476789db595aabd1b76/Homework%2002%20-%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic/content/png_2_02.png)
 
-## Basic Segment with RFM
-- pic3
-- s
+## Analytic steps
+**NOTEBOOK:** [Supermarket Customer Analytic](https://github.com/khemthung/MADT8101-Customer-analytics/blob/08c2e48a15981a3b2a6cc7fff3146aca16353c9b/Homework%2006%20-%20Social%20Network%20Analytic%20%26%20Social%20Voice%20Analysis/Class6_Topic_modeling.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khemthung/MADT8101-Customer-analytics/blob/main/Class6_Topic_modeling.ipynb)
+***** EDIT LINK *****
+1) Exploratory data analysis (EDA)
+2) Freature selection & Data preparation
+3) Basic Segmentation with RFM
+4) Finding insight and actionable plan
 
-## Finding & insight
-1) C
+## Conclution:
+
+
+#### Data dictionary: (from feature selection)
+  - **customers code:** customer unique number
+  - **started date:** 1st data customer register
+  - **last date:** last purchase date
+  - **total spend:** total spending per user
+  - **mean time between purchase:** calculated from *((start_date - last_date)/pruchase_frequency)*
+  - **lifetime:** calculated from  *(today(lastest of data) - registered date)*
+  - **customer life time value CLTV:** lifetime miltiplied by average transaction per user
+  - **avg_spend:** on that purchase spending per basket per user
+  - **customer price sensitivity:** customer respond on price
+  - **customer lifestage:** segment customer by thier's age
