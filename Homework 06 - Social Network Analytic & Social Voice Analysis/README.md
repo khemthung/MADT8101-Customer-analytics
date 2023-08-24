@@ -8,7 +8,7 @@
     - Identifying Customer Pain Points
 
 **PROJECT:** Topic modeling restaurant comments <br>
-**NOTEBOOK:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khemthung/MADT8101-Customer-analytics/blob/main/Class6_Topic_modeling.ipynb)
+**NOTEBOOK:** [Topic Modeling_Menya Itto BKK restaurant notebook](https://github.com/khemthung/MADT8101-Customer-analytics/blob/08c2e48a15981a3b2a6cc7fff3146aca16353c9b/Homework%2006%20-%20Social%20Network%20Analytic%20%26%20Social%20Voice%20Analysis/Class6_Topic_modeling.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khemthung/MADT8101-Customer-analytics/blob/main/Class6_Topic_modeling.ipynb)
  
 ## Social Voice Analysis -> Tocpic Modeling on comments 
 ![takenmen ramen](https://github.com/khemthung/MADT8101-Customer-analytics/blob/3caf79cdb3631c3a8cb0969acc287b1279822707/Homework%2006%20-%20Social%20Network%20Analytic%20%26%20Social%20Voice%20Analysis/content/png_6_00.png)
