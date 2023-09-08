@@ -24,7 +24,7 @@ class work for mock up customer data platform for **Banking and Financial servic
 - also need to make sure we get all the feature needed for **indicator setup** and lead to decision making later on 
 ![CDP_indicators](https://github.com/khemthung/MADT8101-Customer-analytics/blob/main/Homework%2001%20-%20Analysis%20of%20customer%20behaviors%20%26%20CDP/05.png)
 
-## Use Cases
+## Business recommendation & Use Cases
 1) Next best offer (Cross-sells with product by user life stage) eg. some life event speding for bank to help (Buying house, New car, Getting married, planning for kids, etc.)
 2) Lead scoring (Segment to identify customer) - seting score for each BU can identify user and action to imprece services
 3) Upsell/Top-up (view spending transaction and apply with more interesting offers)
