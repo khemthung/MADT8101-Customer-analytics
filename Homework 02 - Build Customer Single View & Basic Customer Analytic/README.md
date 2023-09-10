@@ -14,7 +14,7 @@
 ![Business Decision](https://github.com/khemthung/MADT8101-Customer-analytics/blob/139ed13716d1474da65af476789db595aabd1b76/Homework%2002%20-%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic/content/png_2_02.png)
 
 ## Analytic steps
-**NOTEBOOK:** [Supermarket Customer Analytic](https://github.com/khemthung/MADT8101-Customer-analytics/blob/b2ce1e2232184ad87ac0335abe5e83180df43495/Homework%2002%20-%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic/Class_2_Customer_Insight_Supermarket_R.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18-vadb2_AydTONc66j-KKQ58lnax_X0q?usp=sharing)
+**NOTEBOOK:** [Supermarket Customer Analytic](https://github.com/khemthung/MADT8101-Customer-analytics/blob/main/Homework%2002%20-%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic/Class_2_Customer_Insight_Supermarket_R.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18-vadb2_AydTONc66j-KKQ58lnax_X0q?usp=sharing)
 
 ### 1) Exploratory data analysis (EDA)
 - clean supermarket date
