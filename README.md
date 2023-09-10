@@ -12,8 +12,9 @@
 [class 2 Build Customer Single View & Basic Customer Analytic](https://github.com/khemthung/MADT8101-Customer-analytics/tree/main/Homework%2002%20-%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic)\
 ![Generic badge](https://img.shields.io/badge/Concept-blue)
 ![Generic badge](https://img.shields.io/badge/EDA-yellow)
-![Generic badge](https://img.shields.io/badge/Python-<COLOR>.svg)
-![Generic badge](https://img.shields.io/badge/presentation-orange)
+![Generic badge](https://img.shields.io/badge/kmeans-yellow)
+![Generic badge](https://img.shields.io/badge/RFM-yellow)
+![Generic badge](https://img.shields.io/badge/R-<COLOR>.svg)
 
 
 [class 3 Customer Lifetime Value & Customer](https://github.com/khemthung/MADT8101-Customer-analytics/tree/main/Homework%2003%20-%20Customer%20Lifetime%20Value%20%26%20Customer)\
