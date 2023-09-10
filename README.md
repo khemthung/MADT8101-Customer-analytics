@@ -13,7 +13,6 @@
 ![Generic badge](https://img.shields.io/badge/Concept-blue)
 ![Generic badge](https://img.shields.io/badge/EDA-yellow)
 ![Generic badge](https://img.shields.io/badge/kmeans-yellow)
-![Generic badge](https://img.shields.io/badge/RFM-yellow)
 ![Generic badge](https://img.shields.io/badge/R-<COLOR>.svg)
 
 
