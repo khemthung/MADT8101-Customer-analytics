@@ -55,11 +55,22 @@
     ![pic_5](https://github.com/khemthung/MADT8101-Customer-analytics/blob/b2ce1e2232184ad87ac0335abe5e83180df43495/Homework%2002%20-%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic/content/png_2_e.png)
 
 ### 4) Result interpretation for each group
-  1. s
-  2. s
-  3. s
+**R for EDA:** [R-for-eda](https://github.com/khemthung/MADT8101-Customer-analytics/blob/12e6e40cc90e1204f64436357e994f43ab3ac7ba/Homework%2002%20-%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic/cluster_profiling_report.R)
+  - get all feature to view each characteristic-- for full report can view here [pdf](https://github.com/khemthung/MADT8101-Customer-analytics/blob/12e6e40cc90e1204f64436357e994f43ab3ac7ba/Homework%2002%20-%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic/R_EDA/R_Explore-report.pdf)
+
+  ![pic_6](https://github.com/khemthung/MADT8101-Customer-analytics/blob/12e6e40cc90e1204f64436357e994f43ab3ac7ba/Homework%2002%20-%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic/content/png_2_4-a.png)
+  
+  ![pic_7](https://github.com/khemthung/MADT8101-Customer-analytics/blob/12e6e40cc90e1204f64436357e994f43ab3ac7ba/Homework%2002%20-%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic/content/png_2_4-b.png)
+  
+- interpretation result with importance features
+
+  ![pic_8](https://github.com/khemthung/MADT8101-Customer-analytics/blob/12e6e40cc90e1204f64436357e994f43ab3ac7ba/Homework%2002%20-%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic/content/png_2_5.png)
 
 ## Conclution:
+
+  ![pic_9](https://github.com/khemthung/MADT8101-Customer-analytics/blob/12e6e40cc90e1204f64436357e994f43ab3ac7ba/Homework%2002%20-%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic/content/png_2_6.png)
+
+  
 
 
 
