@@ -1,11 +1,11 @@
-![image](https://github.com/khemthung/MADT8101-Customer-analytics/assets/49018188/3c8fd305-26f0-47e0-8fde-a631636031c4)![image](https://github.com/khemthung/MADT8101-Customer-analytics/assets/49018188/c1f90c40-06f4-4859-9e40-6f7a795383c8)# Churn & Campaign Scoring project
+# Churn & Campaign Scoring project
 - To explored and performed an analysis of an e-commerce dataset.
 - To ran different classification algorithms and xgboots from the libaray.
 - Using shap or shapley value to identify which feature will impact our model.
 
 # Churn Projects
 **CLASS NOTEBOOK:** [Basic Churn Prediction](https://github.com/khemthung/MADT8101-Customer-analytics/blob/c5646cfeeb90a0dffccf34b10eda53a18aed1a11/Homework%2004%20-%20Churn%20%26%20Campaign%20Scoring/Basic_Churn_Prediction.ipynb) <br>
-**Project NOTEBOOK**  [Ecommerce Churn Prediction](https://github.com/khemthung/MADT8101-Customer-analytics/blob/746c6e8d8acd8662a7120e09cc9f549068e19932/Homework%2004%20-%20Churn%20%26%20Campaign%20Scoring/Ecommerce_churn_scoring.ipynb) 
+**Project NOTEBOOK**  [Ecommerce Churn Prediction](https://github.com/khemthung/MADT8101-Customer-analytics/blob/746c6e8d8acd8662a7120e09cc9f549068e19932/Homework%2004%20-%20Churn%20%26%20Campaign%20Scoring/Ecommerce_churn_scoring.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kQrWeudwcJe4WZenfJaICVg5J_AWjbTp?usp=sharing)
 
 # Ecommerce Churn Prediction
 1. Data dictionary for  e-commerce datase <br>
