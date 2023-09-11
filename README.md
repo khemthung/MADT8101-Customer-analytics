@@ -14,6 +14,7 @@
 ![Generic badge](https://img.shields.io/badge/EDA-yellow)
 ![Generic badge](https://img.shields.io/badge/kmeans-yellow)
 ![Generic badge](https://img.shields.io/badge/R-<COLOR>.svg)
+![Generic badge](https://img.shields.io/badge/presentation-orange)
 
 
 [class 3 Customer Lifetime Value & Customer](https://github.com/khemthung/MADT8101-Customer-analytics/tree/main/Homework%2003%20-%20Customer%20Lifetime%20Value%20%26%20Customer)\
