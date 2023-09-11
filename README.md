@@ -25,6 +25,8 @@
 
 [class 4 Churn & Campaign Scoring](https://github.com/khemthung/MADT8101-Customer-analytics/tree/main/Homework%2004%20-%20Churn%20%26%20Campaign%20Scoring)\
 ![Generic badge](https://img.shields.io/badge/Concept-blue)
+![Generic badge](https://img.shields.io/badge/XGBoost-yellow)
+![Generic badge](https://img.shields.io/badge/Shapley-yellow)
 ![Generic badge](https://img.shields.io/badge/Python-<COLOR>.svg)
 ![Generic badge](https://img.shields.io/badge/presentation-orange)
 
