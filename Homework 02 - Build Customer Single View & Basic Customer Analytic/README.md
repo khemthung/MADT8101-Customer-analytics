@@ -66,7 +66,7 @@
 
   ![pic_8](https://github.com/khemthung/MADT8101-Customer-analytics/blob/12e6e40cc90e1204f64436357e994f43ab3ac7ba/Homework%2002%20-%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic/content/png_2_5.png)
 
-## Conclution:
+## conclusion:
 
   ![pic_9](https://github.com/khemthung/MADT8101-Customer-analytics/blob/12e6e40cc90e1204f64436357e994f43ab3ac7ba/Homework%2002%20-%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic/content/png_2_6.png)
 
