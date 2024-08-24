@@ -1,5 +1,5 @@
 # MADT8101-Customer-analytics
-### MADT8101-Customer-analytics class works and projects
+### MADT8101-Customer-analytics class works and projects 
 
 
 [class 1 Overview of Customer Analytic & Design Customer Data Platform](https://github.com/khemthung/MADT8101-Customer-analytics/tree/main/Homework%2001%20-%20Analysis%20of%20customer%20behaviors%20%26%20CDP)\
